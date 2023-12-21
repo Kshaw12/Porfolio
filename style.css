@@ -1,0 +1,103 @@
+*{
+    margin:0;
+    padding:0;
+    margin:0;
+    /* background-color: rgb(227, 244, 244); */
+}
+
+.all{
+    background-image: url("./images/yellow.jpg");
+    margin: 30px;
+    background-repeat:no-repeat;
+    /* background: cover; */
+    background-size: 100vw 100%;
+    /* background-position: center top; */
+} 
+
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background: local ;
+    background: rgb(131, 115, 63) ;
+    background-image:url(./images/pexels-lydia-bond-1550618.jpg);
+    background-size: cover;
+    border:solid black 5px;
+    padding: 30px;
+    margin: 30px;
+    gap: 300px; 
+    margin-bottom: 150px;
+    /* position: absolute; */
+   
+}
+.name-bar{
+transition: step-start;   
+}
+
+
+.links{
+    display: flex;
+   margin-left: 40px;
+   justify-content: flex-end;
+    align-items: center;
+    gap: 30px;
+    color: rgb(24, 23, 23);
+    margin-right: 50px;
+}
+
+.red{
+    color:rgb(19, 17, 17);
+}
+
+
+.btn-div{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    transform-style:flat;
+    transition-delay:2s;
+    /* url(resume\1 Resume.pdf) */
+}
+.col-3{
+    margin-bottom: 300px;
+
+}
+.little-flower{
+    margin:0;
+    
+  
+}
+
+
+h6{
+    font-size:28pt !important;
+}
+
+#button{
+    background-color: brown;
+    color:rgb(44, 139, 168);
+}
+
+.btn .btn-div{
+    background-color: rgb(98,196,213);
+}
+
+.text{
+    opacity: 0;
+}
+
+.image-hover1:hover .text{
+    opacity: 1;
+    border: black solid 1px 1px;
+}
+
+.image-hover2:hover .text{
+    opacity: 1;
+}
+
+.image-hover3:hover .text{
+    opacity: 1;
+}
+
+
+
