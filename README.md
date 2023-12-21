@@ -8,7 +8,7 @@
 
 ## **Description**
 
-### The portfolio is a compilation my academic and professional materials that exemplifies my skills, qualifications, education, training, and experiences.  The purpsose and motivation of my portfolio is to demonstration progression and growth over time. Building my the portofolio required that I become more aware of my own learning styles, strageties and self-relfection.
+### The portfolio is a compilation my academic and professional materials that exemplifies my skills, qualifications, education, training, and experiences.  The purpsose and motivation of my portfolio is to demonstration progression and growth over time. Building my portofolio requires that I become more aware of my own learning styles, strageties and self-relfection.
 
 ![wireframe-image](<New Wireframe 1.png>)
 
